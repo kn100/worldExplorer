@@ -5,7 +5,9 @@ This project provides you with two main scripts. The first is a player controlle
 For some video demos of it in action, please see these three videos:
 
 [Video demo showing a demo built as part of my Dissertation](https://www.youtube.com/watch?v=SDkdGDm5BXc)
+
 [Video that was created to play in the background of a project fair, explaining how it works - also user testing with the Rift](https://www.youtube.com/watch?v=9096Hdaeh0M)
+
 [Video showcasing the latest build of the software, as well as scene view](https://youtu.be/tIEHX5wSVyE)
 
 ##Assets
