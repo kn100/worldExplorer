@@ -39,7 +39,7 @@ To get started
  4. Tag the game object you wish to do something if the user looks at it with either "Major" or "Minor". This distinction allows you to set two separate activation delays for these two different classes of object.
  5. To define the action you want to take place when the game object is looked at, Create a new C# script called whatever you like, and implement IObjectAction, concretely defining activate() - where your action takes place. 
 ####Example
-
+```
     Example which selects a different scene:
 
     using UnityEngine;
@@ -60,7 +60,9 @@ To get started
     {
         SceneManager.LoadScene(0);
     }
+```
 ##Licence
+```
     Copyright (c) 2016 Kevin Norman.
 
     Permission is hereby granted, free of charge, to any person obtaining
@@ -80,7 +82,7 @@ To get started
     CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
     TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
     OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
+```
 ##Contact me
 Twitter is your best bet, Feel free to leave hate mail at @normankev141.
 
